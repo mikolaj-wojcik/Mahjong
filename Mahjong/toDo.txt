@@ -1,0 +1,6 @@
+dodaj krawêdzie do tekstur --X od biedy
+te pêtle trzeba poprawiæ--> Done(czêœcowo)
+Przyskalowaniu klcków zmieniæ pole kliku
+shuffle gdy nierozwi¹zywalne(xD)
+isInside jest do wyjebania w tile
+return nie dzia³¹
